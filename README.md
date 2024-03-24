@@ -1,1 +1,1 @@
-# CMP-8080-EFCore
+# CMP-1946 Assignment 1
